@@ -1,0 +1,10 @@
+|scanme.nmap.org|
+
+✅ Port 22 is OPEN
+✅ Port 80 is OPEN
+
+|127.0.0.1|
+✅ Port 135 is OPEN
+✅ Port 445 is OPEN
+✅ Port 902 is OPEN
+✅ Port 912 is OPEN
